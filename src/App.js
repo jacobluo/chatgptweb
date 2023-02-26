@@ -14,7 +14,7 @@ const aegis = new Aegis({
 });
 
 const chatAPIURL = "http://43.154.26.164:9000/chat"
-const imageAPIURL = "'http://43.154.26.164:9000/image'"
+const imageAPIURL = "http://43.154.26.164:9000/image"
 
 
 export default function App() {
